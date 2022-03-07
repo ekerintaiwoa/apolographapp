@@ -1,0 +1,24 @@
+.characterlist {
+
+    display: flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+
+
+}
+
+.Character{
+
+margin-left: 2rem;
+
+
+}
+
+
+.Character-episode{
+
+
+margin-top: 2rem;
+
+}
+
